@@ -977,6 +977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2021-02-01 21:21:51 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-05-22 20:49:36 -0400"
@@ -1208,6 +1214,12 @@
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2020-09-24 18:18:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2021-02-01 21:21:51 -0500"
     },
     "done": true
   },
@@ -1811,6 +1823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2021-02-01 21:21:51 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-06-03 11:05:30 -0400"
@@ -2339,5 +2357,5 @@
     },
     "done": true
   },
-  "DataVersion": 2580
+  "DataVersion": 2586
 }
